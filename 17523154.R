@@ -1,5 +1,5 @@
 #Nim : 17523154
-#Nama : Girendra Egir Z.
+#Nama : Girendra Egie Zuhrival.
 
 #No.1
 #Data
